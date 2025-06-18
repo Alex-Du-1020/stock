@@ -1,4 +1,5 @@
 # I build this application all in Cursor. For me, I just described the requirement, just a litte coding.
+I also commit my code in Github. Please check https://github.com/Alex-Du-1020/stock.
 
 # Stock Portfolio Management System
 
